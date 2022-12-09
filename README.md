@@ -8,3 +8,8 @@ when the button is pressed, the players time will show up and a song will play.
 - Countdown will start when microbit is shaked
 - Pressing button A will be registered after the countdown is over
 - After input is registered, time will display and song will play
+
+## REQUIRED OBJECTS
+- 1 Microbit
+- 1 9V Battery
+- 1 Buzzer
